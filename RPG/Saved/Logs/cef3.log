@@ -1,12 +1,10 @@
-[8024:32476:0102/185648.155:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8024:32476:0102/185648.243:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8024:32476:0102/185650.565:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[7532:26604:0102/185652.280:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C2E703120BC7BC79D6DFF40C869A0AD7 will be ignored
-[8024:4600:0102/185654.291:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[8024:32476:0102/185654.617:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8024:32476:0102/185654.617:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8024:32476:0102/185654.617:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8024:32476:0102/185654.617:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8024:4600:0102/185654.624:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[8024:4600:0102/185702.405:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[8024:32476:0102/185711.724:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[22456:25324:0103/181408.384:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[22456:25324:0103/181409.345:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[22456:25324:0103/181423.485:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22632:20908:0103/181426.527:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-5C2BF47271E5E3161787AFE4B7027ED3 will be ignored
+[22456:6400:0103/181428.628:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22456:25324:0103/183309.482:ERROR:device_event_log_impl.cc(196)] [18:33:09.470] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[22456:25324:0103/185323.208:ERROR:device_event_log_impl.cc(196)] [18:53:22.927] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[22456:6400:0103/190011.765:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22456:6400:0103/195029.304:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[22456:25324:0103/215505.018:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
