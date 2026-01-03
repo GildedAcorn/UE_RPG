@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GitHub Repos/UE_RPG/RPG/Content/Maps/Minimal_Default.umap"
+			]
+		}
+	]
+}
